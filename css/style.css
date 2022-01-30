@@ -21,12 +21,11 @@ div {
 
 section {
   width: 25%;
-  height: 250px;
+  height: 33.3vh;
   float: left;
   background-size: contain;
   background-repeat: no-repeat;
   overflow: auto;
-  margin:
 }
 
 
